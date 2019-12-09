@@ -1,7 +1,5 @@
 {
-    "name": "stcubeprog",
-    "author": "Eon Team",
-    "type": "programmer",
-    "version": "1.0.0"
-  }
-  
+  "name": "stcubeprog",
+  "author": "EonTeam",
+  "type": "programmer"
+}
